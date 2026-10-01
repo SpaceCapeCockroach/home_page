@@ -7,7 +7,7 @@ excerpt: 'This paper presents a hashgrid-based framework projecting 2D VLM featu
 date: 2026-09-28
 venue: 'arXiv preprint arXiv:2609.38620'
 paperurl: 'https://arxiv.org/abs/2609.38620'
-citation: 'Hanwen Cao, <b>Wenqiang Wu</b>, et al. (2026). &quot;Vision-Language Mapping & 3D Grounding via Hashgrid and SDF Feature Fusion.&quot; <i>arXiv:2609.38620</i>.'
+# citation: 'Hanwen Cao, <b>Wenqiang Wu</b>, et al. (2026). &quot;Vision-Language Mapping & 3D Grounding via Hashgrid and SDF Feature Fusion.&quot; <i>arXiv:2609.38620</i>.'
 ---
 
 ### Abstract
@@ -19,4 +19,4 @@ This work introduces a novel hybrid semantic-geometric pipeline for real-time, o
 * **Semantic-Geometric Fusion:** Combined SDF representation with high-level VLM features to refine submap alignment and improve camera pose estimation on ScanNet benchmarks.
 
 ---
-*For more details, check out our [arXiv Preprint](https://arxiv.org/abs/2609.38620) or visit the [Existential Robotics Lab](https://existentialrobotics.org/) page.*
+*For more details, check out our [arXiv Preprint](https://arxiv.org/abs/2609.38620) or visit the [Existential Robotics Lab](https://existentialrobotics.org/HIGS_webpage/) page.*

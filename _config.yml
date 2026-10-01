@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Wenqiang Wu / personal website"
 title_separator          : "-"
 name                     : &name "Wenqiang Wu"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Wenqiang Wu 吴文强"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "CS @ SUSTech & UCSD ERL. Focused on Embodied AI, VLMs, and Robotics."
+  location         : "Shenzhen, China"
   employer         : "SUSTech"
   uri              : # URL
   email            : "12311218@mail.sustech.edu.cn" 
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0003-5638-8120"
+  orcid            : "https://orcid.org/0009-0003-5638-8120"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
