@@ -7,7 +7,7 @@ excerpt: 'We present DeSeG, a two-stage framework that decomposes affordance sel
 date: 2026-03-01
 status: under_review
 venue: 'Under Review at WACV'
-paperurl: 'https://arxiv.org/abs/2607.05787'
+# paperurl: 'https://arxiv.org/abs/2607.05787'
 # citation: 'Jiakun Li*, Zhe Li*, <b>Wenqiang Wu*</b>, Zheng Chang, Mingqi Gao, Jinyu Yang, Feng Zheng. (&ast;Equal contribution). &quot;Decomposed Affordance Selection and Latent Generation for Physically Plausible Human-Scene Interaction.&quot; <i>Under Review at WACV 2027</i>.'
 ---
 
