@@ -23,4 +23,4 @@ We propose DeSeG, a hierarchical framework that decouples high-level semantic in
 * **Physics-Regularized Diffusion Executor:** Formulated a physics-regularized denoising objective with differentiable repulsive potential fields, granting the motion generator a natural collision-avoidance reflex without costly test-time optimization.
 
 ---
-*For more details, check out our [arXiv Preprint](https://arxiv.org/abs/2607.05787).*
+<!-- *For more details, check out our [arXiv Preprint](https://arxiv.org/abs/2607.05787).* -->
