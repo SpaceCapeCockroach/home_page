@@ -7,7 +7,8 @@ excerpt: 'This paper presents a hashgrid-based framework projecting 2D VLM featu
 date: 2026-09-28
 status: under_review
 venue: 'Submitted to IJRR'
-authors: 'H. Cao, <strong>Wenqiang Wu</strong>, K.-T. Tu, M. Otnes, J. Delmerico, R. Wang, Y. Tian, N. Atanasov'
+authors: 'H. Cao, <strong>Wenqiang Wu*</strong>, Kuang-Ting Tu*, Mathias Otnes*, J. Delmerico, R. Wang, Y. Tian, N. Atanasov'
+author_note: '* Equal contribution (co-second authors)'
 paperurl: 'https://arxiv.org/abs/2609.38620'
 # citation: 'Hanwen Cao, <b>Wenqiang Wu</b>, et al. (2026). &quot;Vision-Language Mapping & 3D Grounding via Hashgrid and SDF Feature Fusion.&quot; <i>arXiv:2609.38620</i>.'
 ---
