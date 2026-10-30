@@ -56,6 +56,10 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+        {% if page.collection == "publications" and page.authors %}
+          <p>{{ page.authors }}{% if page.author_note %}<br><small>{{ page.author_note }}</small>{% endif %}<br><i>{{ page.venue }}</i></p>
+          {% if page.paperurl %}<p><a href="{% if page.paperurl contains "://" %}{{ page.paperurl }}{% else %}{{ page.paperurl | relative_url }}{% endif %}">{{ page.paper_label | default: "Download Paper" }}</a></p>{% endif %}
+        {% endif %}
         {{ content }}
 
         {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}

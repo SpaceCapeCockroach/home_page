@@ -1,12 +1,13 @@
 ---
-title: "Vision-Language Mapping & 3D Grounding via Hashgrid and SDF Feature Fusion"
+title: "HIGS: Hierarchical Implicit Grids for Joint Geometric and Semantic Scene Understanding"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-09-28-vlm-3d-mapping
 excerpt: 'This paper presents a hashgrid-based framework projecting 2D VLM features into 3D space for real-time online semantic mapping and 3D grounding.'
 date: 2026-09-28
 status: under_review
-venue: 'Under Review at IJRR '
+venue: 'Submitted to IJRR'
+authors: 'H. Cao, <strong>Wenqiang Wu</strong>, K.-T. Tu, M. Otnes, J. Delmerico, R. Wang, Y. Tian, N. Atanasov'
 paperurl: 'https://arxiv.org/abs/2609.38620'
 # citation: 'Hanwen Cao, <b>Wenqiang Wu</b>, et al. (2026). &quot;Vision-Language Mapping & 3D Grounding via Hashgrid and SDF Feature Fusion.&quot; <i>arXiv:2609.38620</i>.'
 ---
